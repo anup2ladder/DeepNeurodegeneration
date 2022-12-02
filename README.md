@@ -1,2 +1,2 @@
 # DeepNeurodegeneration
-Repositry for journal article "Modeling neurodegeneration in silico With deep learning"
+Repository for journal article "Modeling neurodegeneration in silico With deep learning"
